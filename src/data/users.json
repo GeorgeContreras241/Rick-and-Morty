@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "name" : "tata",
+        "lastname" : "contreras"
+    },
+    {
+        "id" : 2,
+        "name" : "George",
+        "lastname" : "contreras"
+    },
+    {
+        "id" : 3,
+        "name" : "Jorge",
+        "lastname" : "contreras"
+    },
+    {
+        "id" : 4,
+        "name" : "Nohora",
+        "lastname" : "contreras"
+    },
+    {
+        "id" : 5,
+        "name" : "grusito",
+        "lastname" : "contreras"
+    }
+]
